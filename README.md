@@ -92,12 +92,7 @@ Overall, this project marked a significant milestone in my journey as a full-sta
 - Introduce advanced search filters for customized tour searches.
 - Integrate geolocation services for location-based tour suggestions.
 - Implement a user dashboard for managing and tracking bookings.
-
-
-## 🚀 About Me
-
-I'm Shubham Pitekar, a passionate full-stack developer with expertise in ReactJS,NextJS, NodeJs,ExpressJS and MongoDb. I love turning ideas into reality on the web. I thrive on challenges and continuously seek opportunities to push my boundaries. Let's create impactful projects together!
-
+  
 ## 🛠 Skills
 
 JavaScript, HTML, CSS, React, Bootstrap, Node.js, Express, MongoDB.
