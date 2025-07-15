@@ -1,12 +1,11 @@
 
 # TravelWorld 🌍
 
-A Fullstack Tours & Travels Web App Using MERN Stack 💫
+A Fullstack Tours & Travels Web App 
 
 ## Backend Repository
 
-- [TravelWorld Backend Repository](https://github.com/shuence/Bakend-for-TravelWorld)
-
+- [TravelWorld Backend Repository]
 ## Resources
 
 - [React Docs](https://beta.reactjs.org/)
@@ -16,15 +15,8 @@ A Fullstack Tours & Travels Web App Using MERN Stack 💫
 
 ## Authors
 
-- [@Shuence](https://www.github.com/shuence) 💫
+- @Avinash,@Aush,@Vishal,@Abhay,@Animesh
 
-## Badges
-
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-
-## Live Preview
-
-[TravelWorld 🌍](https://travelworldtours.netlify.app/)
 
 ![image](https://github.com/shuence/FitClub/assets/65482186/4c863ee9-2e02-4e98-95c0-e122cf91320e)
 
@@ -101,7 +93,6 @@ Overall, this project marked a significant milestone in my journey as a full-sta
 - Integrate geolocation services for location-based tour suggestions.
 - Implement a user dashboard for managing and tracking bookings.
 
-# Hi, I'm Shuence! 👋
 
 ## 🚀 About Me
 
@@ -111,6 +102,6 @@ I'm Shubham Pitekar, a passionate full-stack developer with expertise in ReactJS
 
 JavaScript, HTML, CSS, React, Bootstrap, Node.js, Express, MongoDB.
 
-## Happy coding 💯
+## Happy coding 
 
-Made with love from [Shuence](https://shuence.netlify.app) ❤️
+Code in peace
