@@ -19,16 +19,7 @@ A Fullstack Tours & Travels Web App
 
 
 ![image](https://github.com/shuence/FitClub/assets/65482186/4c863ee9-2e02-4e98-95c0-e122cf91320e)
-## Setup
 
-To Setup this project run
-
-```bash
-git clone <https://github.com/shuence/Travel-World>
-cd Travel-World
-yarn
-yarn serve
-```
 
 ## Environment Variables
 
